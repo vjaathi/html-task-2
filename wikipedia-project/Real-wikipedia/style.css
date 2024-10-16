@@ -1,0 +1,289 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    
+}
+
+.wiki-img{
+    width: 300px;
+}
+
+.option{
+    margin-top: 10px;
+    width: 50px;
+    padding-right: 10px;
+    margin-left:10px ;
+}
+
+.icon{
+    width: 60px;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
+.serach-box input{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 500px;
+    height: 50px;
+    font-size: 1.5rem;
+    padding-left: 20px;
+}
+
+
+
+.serach-box button{
+    margin-right: 190px;
+    height: 50px;
+    width: 90px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background-color: rgb(80, 80, 224,.5);
+}
+
+.right{
+    width: 300px;
+}
+
+.main{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.main marquee {
+    font-size: 60px;
+}
+
+.lang{
+    margin-left: 600px;
+    margin-bottom: 200px;
+    color: blue;
+    font-size: 30px;
+    border: none;
+}
+
+.small-head{
+    display: flex;
+    margin-top: 7px;
+
+}
+
+.small-head p{
+    margin-left: 10px;
+}
+
+.list{
+    display: flex;
+   
+    
+}
+
+.list ul{
+    margin-left: 900px;
+}
+
+.list li{
+    list-style: none;
+    display: inline-block;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.fpara{
+    padding: 10px;
+    color: brown;
+    margin-left: 10px;
+}
+
+.fimg img{
+    height: 200px;
+    width: 200px;
+    margin-left: 700px;
+    float:right;
+}
+
+p{
+    display: flex;
+    float: left;
+} */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(146, 186, 202);
+}
+
+.more-option{
+    display: inline-flex;
+    margin-left: 20px;
+}
+
+.more-option img{
+    width: 70px;
+    height: 70px;
+}
+
+.world-img{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+
+.world-img img{
+    width: 90px;
+}
+
+.wiki-img{
+     display:inline-block;
+     margin-left: 20px;
+
+}
+
+.wiki-img img{
+    width: 300px;
+    height: 100px;
+    margin-right: 5px;
+
+}
+
+.input{
+    display:inline-block;
+    margin-left: 50px;
+    
+}
+
+.input input{
+    width: 400px;
+    height: 50px;
+    font-size: 1.5rem;
+    padding-left: 10px;
+    border-radius: 50px;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 5px;
+
+}
+
+.btn button{
+    width: 100px;
+    height:50px ;
+    background-color: rgb(109, 109, 209,.5);
+    border-radius: 50px;
+}
+
+
+
+.intro{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-evenly;
+}
+
+.side-head{
+    font-size: 2rem;
+    color: brown;
+}
+
+.lang{
+    color: brown;
+    margin-left: 200px;
+    font-size: 1.5rem;
+}
+
+
+
+.inside-hr{
+    display: flex;
+    justify-content:flex-end;
+    background-color: rgb(240, 139, 8,.5);
+}
+
+.sup-tittle{
+    display: flex;
+    font-size: 20px;
+    margin-right: 500px;
+}
+
+.sup-tittle p{
+    padding: 10px;
+}
+
+.sup-tittle2 ul{
+    display: flex;
+    margin-right: 150px;
+}
+
+.sup-tittle2 li{
+    list-style: none;
+    padding: 10px;
+}
+
+.para1{
+    padding: 10px;
+    float: left;
+}
+
+.container-img{
+    background-color: rgba(141, 63, 32, 0.5);
+    color: rgb(22, 26, 22);
+}
+
+.f-img{
+    margin-top: 50px;
+
+}
+
+.container-img p{
+    margin-bottom: 20px;
+    
+}
+
+.container-img h1{
+    background:linear-gradient(rgb(150, 79, 150),pink,rgb(233, 159, 21,.5));
+    display: inline-block;
+}
+
+.f-img img{
+    float: left;
+    margin: 20px;
+    width: 150px;
+    background-color: aqua;
+}
+
+
+
+.s-img img{
+    float: right;
+    width: 150px;
+    margin: 20px;
+}
+
+.th-img img{
+    float: left;
+    margin: 20px;
+    width: 200px;
+}
+
+.fo-img img{
+    float: right;
+    width: 130px;
+    margin: 20px;
+}
+
+.five-img img{
+    float: left;
+    width: 120px;
+    margin: 20px;
+}
+

@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.dotimg{
+    display: inline-block;
+    width: 50px;
+    margin-top: 10px;
+}
+
+.heading{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 40px;
+}
+
+.search-icon{
+    display: inline-block;
+    margin-left: 20%;
+}
+
+nav{
+    background-color: rgb(169, 174, 182,.5);
+    
+}
+
+.header{
+    background-color:rgb(241, 199, 214,.5);
+    margin-top: 10px;
+    padding: 30px;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.mckenna-img{
+    
+    width:150px;
+    height:150px;
+    float: left;
+}
+
+.fheading{
+    background-color: aquamarine;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    
+}
+.main-contant1{
+    background-color: rgb(117, 161, 146,.5);
+    margin-top: 10px;
+    padding: 15px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.carnel-img{
+    margin-left: 10px;
+    float: right;
+    width:150px ;
+    height:200px;
+}
+
+.iyna-img{
+    width:150px;
+    height:150px;
+    float:right;
+}
+
+.main-contant2{
+    background-color: rgb(89, 102, 98,.5);
+    margin-top: 10px;
+    padding: 15px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.sheading{
+    background-color: rgba(51, 53, 80, 0.5);
+    border: 1px solid rgb(17, 13, 13);
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.jack-img{
+    width:150px;
+    height:250px;
+    float:right;
+}
+
+.youtube-img{
+    width:150px;
+    height:200px; 
+    margin-bottom:30px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.nheading{
+    background-color: rgba(245, 78, 142, 0.5);
+    border: 1px solid rgb(17, 13, 13);
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.main-contant3{
+    background-color: rgba(123, 240, 205, 0.5);
+    margin-top: 10px;
+    padding: 15px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.main-contant4{
+    background-color: rgba(152, 189, 20, 0.5);
+    margin-top: 10px;
+    padding: 15px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.four-heading{
+    background-color: rgba(105, 89, 95, 0.5);
+    border: 1px solid rgb(17, 13, 13);
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.list,li{
+    margin-bottom: 10px;
+}
+
+.footer-text{
+    background-color: rgb(156, 72, 16);
+    color: whitesmoke;
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 15px;
+    /* margin-left: 30px;
+    margin-right: 50px; */
+}
+
+/* .contact{
+    display: flex;
+} */
